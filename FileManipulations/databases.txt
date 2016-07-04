@@ -1,0 +1,8 @@
+1,Anish,Sedhai,anish.sedhai@acem.com,Satdobato
+2,Abishek,Pandey,abishek.pandey@gmail.com,Dhobighat
+3,Ayush,Shrestha,ayush.lal.shrestha@gmail.com,Sanepa
+4,Adarsh,Shrestha,adarsh.shrestha@live.com,Dillibazar
+5,Manish,Shakya,manish.shakya@gmail.com,Teku
+6,Manoj,humagain,manoj.humagain@hotmail.com,Koteshwor
+7,Birat,KC,birat.kc@hotmail.com,Koteshwor
+8,Kushal,Thapa,kushal.thapa@hotmail.com,Lokanthali
